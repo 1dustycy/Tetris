@@ -1,3 +1,3 @@
 # Tetris
 
-Tetris written in Lua for learning n practicing
+Tetris written in Lua for learning n practicing.
